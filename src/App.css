@@ -1,0 +1,403 @@
+i{
+    cursor: pointer;
+  }
+  .imageIndia{
+    width:4%;
+    height: 600;
+    position: relative;
+    left: 55px;
+}
+.titl{
+    display: inline;
+    position: relative;
+    left:80px;
+}
+.italic{
+    font-style: italic;
+    position: relative;
+    left: 125px;
+    top:-25px;
+}
+#welcomefarmer{
+    text-decoration: solid;
+    color: rgb(177, 230, 247);
+    font-size: x-large;
+}
+#telanganamappointer{
+    height: 45px ;
+    position: relative;
+    top:-30vw;
+    left:34.5vw;
+}
+#maharastramappointer{
+  height: 45px ;
+  position: relative;
+  top:-33vw;
+  left:24.5vw;
+}
+.mappointer{
+    cursor: pointer;
+}
+#telanganadistrictsmap{
+    width: 40%;
+}
+.bhoomb{
+    position: relative;
+    left: 4vw;
+}
+
+/* for start page button  */
+.startpagebutton{
+    background: #ff0000;
+  background-image: -webkit-linear-gradient(top, #ff0000, #a0d428);
+  background-image: -moz-linear-gradient(top, #ff0000, #a0d428);
+  background-image: -ms-linear-gradient(top, #ff0000, #a0d428);
+  background-image: -o-linear-gradient(top, #ff0000, #a0d428);
+  background-image: linear-gradient(to bottom, #ff0000, #a0d428);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  padding: 5px 8px ;
+  font-size: 30px !important;
+  text-decoration: none;
+  width:fit-content;
+}
+
+.startpagebutton:hover{
+    background: #0015ff;
+    background-image: -webkit-linear-gradient(top, #0015ff, #99c8e8);
+    background-image: -moz-linear-gradient(top, #0015ff, #99c8e8);
+    background-image: -ms-linear-gradient(top, #0015ff, #99c8e8);
+    background-image: -o-linear-gradient(top, #0015ff, #99c8e8);
+    background-image: linear-gradient(to bottom, #0015ff, #99c8e8);
+    text-decoration: none;
+}
+
+.startpageimg{
+    border-radius: 25px;
+}
+
+
+/* 
+ */
+
+ #timelinesellingimg{
+     width: 130%;
+     cursor: pointer;
+ }
+ #timelinesellingimg:hover{
+    width:140%
+ }
+ #seedselectiontimg{
+     width : 80%
+ }
+ #seedselectiontimg:hover{
+     width: 90%;
+ }
+
+ #harvestingstoragetimg{
+     width: 50%;
+ }
+ #harvestingstoragetimg:hover{
+     width: 60%;
+ }
+
+#irrigationtimg:hover{
+width:110%
+}
+#cropselectionimg:hover{
+    width: 45%;
+}
+
+
+
+
+header {
+    background-color: greenyellow;
+    margin: auto -16px;
+    padding: 16px 32px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  }
+  
+  header h1 {
+    color: #fff;
+    font-family: "McLaren", cursive;
+    font-weight: 1000;
+  }
+  
+  .note {
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width: 240px;
+    margin: 100px;
+    float: left;
+  }
+  .note h1 {
+    font-size: 1.1em;
+    margin-bottom: 6px;
+  }
+  .note p {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
+
+  .fdnote p {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .fdnote h1 {
+    font-size: 1.1em;
+    margin-bottom: 6px;
+  }
+
+  .fdnote {
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width: 80%;
+    margin: 16px;
+    float: left;
+  }
+
+  .fcrop {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+  }
+
+
+
+
+
+  .head{
+    text-align: center;
+    color: rgb(71, 134, 111);
+}
+table {
+    border-collapse: collapse;
+    width:90%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #DDD;
+    border:1px solid #dddddd;
+    border-color: rgb(9, 8, 18);
+    border-width: 2px;
+  }
+  
+  tr:hover {background-color: #D6EEEE;}
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+
+  .first{
+    color: red;
+    position: relative;
+    left:30%;
+    
+}
+.card-title{
+     color: darkorange;
+}
+.card-body{
+    background-color: lavender;
+}
+.card-header{
+    background-color: rgb(12, 187, 218);
+}
+.seco{
+    width: 6%;
+    height:600 ;
+    position: relative;
+    left:30%;
+}
+
+.homeback {
+  background-image: url('https://giffiles.alphacoders.com/101/10178.gif') !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important; 
+  background-size: cover !important; 
+  
+}
+
+.awp {
+  padding-top: 20px;
+  font-size: xx-large;
+  color: yellowgreen;
+}
+
+input {
+  border-radius: 30px !important;
+}
+
+.fw {
+  align-items: center;
+  width: 300px;
+  margin: 0 auto; 
+  float: none; 
+  margin-bottom: 10px; 
+}
+
+.goog-logo-link {
+  display:none !important;
+} 
+  
+.goog-te-gadget{
+  color: transparent !important;
+}
+
+#google_head_id{
+  font-weight: bold;
+  color: black;
+  margin-bottom: -2px;
+}
+
+#google_div{
+ position: absolute;
+ right: 8vw;
+}
+
+
+
+
+.app-main {
+  width: 50vh;
+  margin: 100px auto;
+  background-color:black;
+  padding: 20px;
+  text-align: center;
+  
+}
+
+.app-main > * {
+  margin-bottom: 20px;
+}
+
+.input-box {
+  width: 100%;
+  background-color:white;
+  border: none;
+  outline: none;
+  color: #582233;
+  font-size: 1.2rem;
+  height: 50px;
+  border-radius: 5px;
+  padding: 0 10px;
+  text-align: center;
+}
+
+.input-box:focus {
+  background-color:white;
+}
+
+
+.weather-body {
+  display: none;
+  color:whitesmoke;
+  
+  
+  line-height: 2rem;
+  border-radius: 10px;
+  background-color: black;
+  height: 26vh;
+}
+
+.location-details {
+  font-weight: bold;
+}
+
+.weather-status {
+  padding: 20px;
+}
+
+.temp {
+  font-size: 50pt;
+  font-weight: 700;
+  margin: 20px 0;
+  text-shadow: 2px 4px rgba(0,0,0,0.3);
+}
+
+.min-max, .weather {
+  font-size: 12pt;
+  font-weight: 600;
+}
+
+
+
+
+
+ .w {
+  background-color: #a0d428;
+
+ }
+
+
+ .slctn {
+  width: 400px;
+  margin: auto;
+  margin-top: 100px;
+  padding: 10px;
+  background-color: aquamarine;
+  border-radius: 10px;
+ }
+
+ .rescol {
+  margin-top: 20px;
+  color: red;
+ }
+
+
+
+ .blinking{
+  animation:blinkingText 0.8s infinite;
+}
+@keyframes blinkingText{
+  0%{     color: Red;    }
+  49%{    color: transparent; }
+  50%{    color: transparent; }
+  99%{    color:transparent;  }
+  100%{   color: #000;    }
+}
+.vc_custom_1499859161112
+      {
+          background-color: #f5f2f2 !important;
+      }
+      .vc_custom_1499854727086
+      {
+          padding-top: 20px !important;
+      }
+      .vc_custom_1499854684238
+      {
+          background-color: #100e32 !important;
+      }
+      .vc_custom_1510567125744
+      {
+          background-color: #ffffff !important;
+      }
+      .vc_custom_1498709985092
+      {
+          margin-left: 15px !important;
+      }
+      .vc_custom_1499857089227
+      {
+          padding-top: 0px !important;
+      }
+      .wpb_animate_when_almost_visible
+          {
+              opacity: 1;
+          }
